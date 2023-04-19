@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author pontoini
+ *
+ */
+module xadrez {
+}
